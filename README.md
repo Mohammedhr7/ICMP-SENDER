@@ -34,8 +34,8 @@ is a powerful Python-based interactive packet manipulation program and library.
 It allows users to create and modify send  and analyze network packets. 
 
 we need to : Packet crafting and manipulation and  Network scanning and Protocole analysis and Traffic Generation and security testing
-![Example Image](image/L1.png)
-![Example Image](image/L2.png)  
+![My Image](https://github.com/Mohammedhr7/ICMP-SENDER/blob/main/images/L1.png) 
+![My Image](https://github.com/Mohammedhr7/ICMP-SENDER/blob/main/images/L2.png) 
 
 
  
@@ -43,5 +43,5 @@ use the code and test in your kali
 first lunch python code 
 and lunch wireshark
 and we says the packet is sender and receive with the configuration the packet
-![Example Image](image/L3.png)  
+![My Image](https://github.com/Mohammedhr7/ICMP-SENDER/blob/main/images/L3.png)  
 
